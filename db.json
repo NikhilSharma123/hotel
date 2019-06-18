@@ -1,6 +1,2 @@
 [
-    {"ratePlanCode":1, "description":"BEST AVAILABLE RATE BED & BREAKFAST", "roomDescription": "2 DOUBLE BED,NO-SMOKING,STANDARD", "standardRoomType":"A2DUK3", "bookableRate": 205.00, "totalRate":205.00, "cancelPolicy":"16:00:00.000"},
-    {"ratePlanCode":2, "description":"BEST AVAILABLE RATE BED & BREAKFAST", "roomDescription": "2 SINGLE BEDS,NO-SMOKING,STANDARD" , "standardRoomType":"B2TUK3", "bookableRate":105.00, "totalRate":105.00, "cancelPolicy":"16:00:00.000"},
-    {"ratePlanCode":3, "description":"BEST AVAILABLE RATE BED & BREAKFAST", "roomDescription": "1 DOUBLE 1 SINGLE,NO-SMOKING,STANDARD" , "standardRoomType":"A2TUK3", "bookableRate":145.00, "totalRate":145.00, "cancelPolicy":"16:00:00.000"},
-    {"ratePlanCode":4, "description":"BEST AVAILABLE RATE BED & BREAKFAST", "roomDescription": "2 DOUBLE BEDS,NO-SMOKING,STANDARD" , "standardRoomType":"B2DUK3", "bookableRate":165.00, "totalRate":165.00, "cancelPolicy":"16:00:00.000"}
-  ]
+    {"ratePlanCode":1, "description":"BEST AVAILABLE RATE BED & BREAKFAST", "roomDescription": "2 DOUBLE BED,NO-SMOKING,STANDARD", "standardRoomType":"A2DUK3", "bookableRate": 205.00}]
